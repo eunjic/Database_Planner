@@ -1,10 +1,10 @@
 Project Title
 ==============
-Self Checking TO-DO List 
+Self Checking Planner 
 
 Motivation
 ===============
-In order to manage my schedule and to have self assesment of it, I proposed a simple Self Checking To-Do List Web platform using database. 
+In order to manage my schedule and to have self assesment of it, I proposed a simple Self Checking Planner Web platform using database. 
 
 Description
 ===============
