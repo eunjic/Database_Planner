@@ -4,7 +4,7 @@ Self Checking Planner
 
 Motivation
 ===============
-In order to manage my schedule and to have self assesment of it, I proposed a simple Self Checking Planner Web platform using database. 
+In order to manage my schedule and to have self assesment of it, I proposed a simple Self Checking Planner using database. 
 
 Description
 ===============
